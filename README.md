@@ -1,6 +1,6 @@
 # go-toolkit
 
-A simple Go tools.
+A simple Go tools module.
 
 The included tools are:
 
@@ -11,5 +11,5 @@ The included tools are:
 - [ ] Download a static file
 - [X] Get a randome string of length n
 - [ ] Post JSON to a remote service
-- [ ] Create a directory, including all parent directories, if it does not already exist
+- [X] Create a directory, including all parent directories, if it does not already exist
 - [ ] Create a URL safe slug from a string
