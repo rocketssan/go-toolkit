@@ -24,4 +24,10 @@ go.work.sum
 # env file
 .env
 
-testdata/
+**/testdata/**
+!**/testdata/**/
+!**/testdata/**/.gitkeep
+
+**/uploads/**
+!**/uploads/**/
+!**/uploads/**/.gitkeep
